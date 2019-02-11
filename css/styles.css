@@ -7,3 +7,13 @@ img {
   background-color: yellowgreen;
 
 }
+.background{
+  text-align: center;
+  font-family: monospace;
+  color: orangered;
+}
+.academic{
+  text-align: center;
+  color: skyblue;
+  font-family: monospace;
+}
